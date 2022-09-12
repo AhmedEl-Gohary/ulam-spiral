@@ -5,7 +5,7 @@ A visualizer that compares prime spirals with randomized spirals side by side to
 ## Screenshots
 
 ![menu](images/ulamspiral.png)
-![visualizer](images/primevsrandom)
+![visualizer](images/primevsrandom.png)
 
 ## Installation 
 
