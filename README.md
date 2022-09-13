@@ -2,6 +2,8 @@
 
 A visualizer that compares prime spirals with randomized spirals side by side to show others the wonder that is prime numbers!
 
+See it in action [here](https://www.youtube.com/watch?v=nMEslvrmguM)
+
 ## Screenshots
 
 ![menu](images/ulamspiral.png)

@@ -9,7 +9,7 @@ screen = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption('Ulam Spiral')
 over_screen = pygame.image.load('images/mainmenu.jpg').convert_alpha()
 over_rect = over_screen.get_rect(center = (WIDTH // 2, HEIGHT // 2))
-font = pygame.font.Font('font/rCimsonText-Bold.ttf', 60)
+font = pygame.font.Font('font/CrimsonText-Bold.ttf', 60)
 
 # Initializing Labels
 prime_label = font.render('Prime', True, 'gray')
