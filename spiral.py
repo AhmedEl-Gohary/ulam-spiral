@@ -83,6 +83,7 @@ for i in range(n):
 screen.blit(over_screen, over_rect)
 button = Button('Prime vs.  Random', 760, 700)
 
+# Main Loop
 while True:
 	# checking for user input
 	for event in pygame.event.get():
@@ -98,6 +99,7 @@ while True:
 			screen.fill('black')
 			switched = True
 
+		# Displaying labels
 		screen.blit(prime_label, prime_rect)
 		screen.blit(random_label, random_rect)
 		
